@@ -7,6 +7,7 @@
   "peerDependencies": {
     "ol": ">= 5.3.0"
   },
+  "type": "module",
   "devDependencies": {
     "eslint": "^5.10.0",
     "gulp": "^4.0.2",
